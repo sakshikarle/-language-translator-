@@ -1,22 +1,22 @@
 
-# 🌍 Language Translator Web App
+# Language Translator Web App
 
 A simple and user-friendly **Language Translator** web application built using HTML, CSS, and JavaScript (and backend if used).  
 It helps users translate text from one language to another instantly.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🌐 Translate text between multiple languages
-- ⚡ Fast and real-time translation
-- 🎨 Simple and clean UI
-- 📱 Responsive design (works on mobile & PC)
-- 🔊 Easy to use interface
+-  Translate text between multiple languages
+-  Fast and real-time translation
+-  Simple and clean UI
+-  Responsive design (works on mobile & PC)
+-  Easy to use interface
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
@@ -26,17 +26,17 @@ It helps users translate text from one language to another instantly.
 
 ---
 
-## 📸 Project Screenshot
+##  Project Screenshot
 Screenshot 2026-06-23 164908.png
 Screenshot 2026-06-23 172850.png
 
 
 ---
 
-## 🎬 Demo Video
+##  Demo Video
 
 👉 Watch Demo:  
-https://your-video-link-here
+https://language-translator-1fu4.onrender.com
 
 ---
 
@@ -54,7 +54,7 @@ https://your-video-link-here
 
 ---
 
-## ⚙️ How to Run Project
+##  How to Run Project
 
 1. Clone the repository:
 ```bash
@@ -64,8 +64,8 @@ Run index.html in browser
 OR
 If backend:
 node server.js
-💡 Future Improvements
+ Future Improvements
 Add voice input 🎤
-Add more languages 🌍
-Save translation history 📜
-Improve UI design 🎨
+Add more languages 
+Save translation history 
+Improve UI design 
